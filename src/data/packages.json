@@ -1,0 +1,195 @@
+[
+    {
+        "img": "../assets/images/image1.jpg",
+        "alt": "2 Nights & 3 Days",
+        "packagename": "2N & 3D",
+        "name": "Package1",
+        "locations":[
+            "Gupteshwar",
+            "Duduma", 
+            "Deomali"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image1.jpg",
+        "alt": "2 Nights & 3 Days",
+        "packagename": "2N & 3D",
+        "name": "Package2",
+        "locations":[
+            "Gupteshwar",
+            "Thuria konda(2nd Highest peak)",
+             "Talamiting+Punjisil"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image1.jpg",
+        "alt": "2 Nights & 3 Days",
+        "packagename": "2N & 3D",
+        "name": "Package3",
+        "locations":[
+            "Gupteshwar", 
+            "Tanga mali",
+            "Putsil",
+            "Raniduduma",
+            "Balda"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image2.jpg",
+        "alt": "3 Nights & 4 Days",
+        "packagename": "3N & 4D",
+        "name": "Package4",
+        "locations":[
+            "Gupteshwar", 
+            "Raniduduma",
+            "balda", 
+            "Deomali", 
+            "Duduma"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image2.jpg",
+        "alt": "3 Nights & 4 Days",
+        "packagename": "3N & 4D",
+        "name": "Package5",
+        "locations":[
+            "Gupteshwar", 
+            "Galigabdar", 
+            "Chingdi",
+            "duduma", 
+            "Putsil" 
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image2.jpg",
+        "alt": "3 Nights & 4 Days",
+        "packagename": "3N & 4D",
+        "name": "Package6",
+        "locations":[
+            "Gupteshwar", 
+            "magardora", 
+            "kalyamali",
+            "Jalmunda"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image3.jpg",
+        "alt": "4 Nights & 5 Days",
+        "packagename": "4N & 5D",
+        "name": "Package7",
+        "locations":[
+            "Gupteshwat", 
+            "Duduma", 
+            "Putsil", 
+            "Deomali (Sabrasrikhetra,DMJ Hanuman, Kantabansarani)"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image3.jpg",
+        "alt": "4 Nights & 5 Days",
+        "packagename": "4N & 5D",
+        "name": "Package8",
+        "locations":[
+            "Gupteshwar", 
+            "Gulmi", 
+            "kalyamali", 
+            "Thuria  konda", 
+            "Balda",
+            "Rani duduma"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image3.jpg",
+        "alt": "4 Nights & 5 Days",
+        "packagename": "4N & 5D",
+        "name": "Package10",
+        "locations":[
+            "Gupteshwar" , 
+            "Gumajharan", 
+            "Deomali" , 
+            "Thuria konda",
+            "Gali gabdar", 
+            "Sabrasrikhetra",
+            "Tribal museum",
+            "DMJ Hanuman", 
+            "Kantabansarani"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image4.jpg",
+        "alt": "5 Nights & 6 Days",
+        "packagename": "5N & 6D",
+        "name": "Package11",
+        "locations":[
+            "Gupteshwar", 
+            "Deomali", 
+            "Duduma", 
+            "Talamiting+Punjisil",
+            "Punjisil", 
+            "Kalyamali", 
+            "Turia konda",
+            "Galigabdar"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image4.jpg",
+        "alt": "5 Nights & 6 Days",
+        "packagename": "5N & 6D",
+        "name": "Package11",
+        "locations":[
+            "Gupteshwar",
+            "Thuria  konda",
+            "Gali gabdar", 
+            "Chingdi duduma", 
+            "Rani duduma",
+            "balda",
+            "Jalmunda",
+            "Sabrasrikhetra",
+            "Tribal museum",
+            "DMJ Hanuman", 
+            "Kantabansarani"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    },
+    {
+        "img": "../assets/images/image4.jpg",
+        "alt": "5 Nights & 6 Days",
+        "packagename": "5N & 6D",
+        "name": "Package12",
+        "locations":[
+            "Gupteshwar", 
+            "Bagra", 
+            "magardora", 
+            "Putsil",
+            "deomali", 
+            "Kalyamali", 
+            "Sabrasrikhetra",
+            "Tribal museum",
+            "DMJ Hanuman", 
+            "Kantabansarani"
+        ],
+        "startingPrice": "20000",
+        "button": "View Details"
+    }
+]

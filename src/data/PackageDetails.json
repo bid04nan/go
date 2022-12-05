@@ -1,0 +1,376 @@
+[
+    {
+        "packagename": "2 Nights & 3 Days",
+        "name":"Package1",
+        "locations":[
+            "Gupteshwar",
+            "Duduma", 
+            "Deomali"
+        ],
+        "img":[
+            "../assets/images/image1.jpg",
+            "../assets/images/image2.jpg",
+            "../assets/images/image3.jpg"
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?",
+        "description":[
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+        ]
+        
+    },
+    {
+        "packagename": "2 Nights & 3 Days",
+        "name":"Package2",
+        "locations":[
+            "Gupteshwar",
+            "Thuria konda(2nd Highest peak)",
+             "Talamiting+Punjisil"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "2 Nights & 3 Days",
+        "name":"Package3",
+        "locations":[
+            "Gupteshwar", 
+            "Tanga mali",
+            "Putsil",
+            "Raniduduma",
+            "Balda"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "3 Nights & 4 Days",
+        "name":"Package4",
+        "locations":[
+            "Gupteshwar", 
+            "Raniduduma",
+            "balda", 
+            "Deomali", 
+            "Duduma"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "3 Nights & 4 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwar", 
+            "Galigabdar", 
+            "Chingdi",
+            "duduma", 
+            "Putsil" 
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "3 Nights & 4 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwar", 
+            "magardora", 
+            "kalyamali",
+            "Jalmunda"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "4 Nights & 5 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwat", 
+            "Duduma", 
+            "Putsil", 
+            "Deomali (Sabrasrikhetra,DMJ Hanuman, Kantabansarani)"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "4 Nights & 5 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwar", 
+            "Gulmi", 
+            "kalyamali", 
+            "Thuria  konda", 
+            "Balda",
+            "Rani duduma"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "4 Nights & 5 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwar" , 
+            "Gumajharan", 
+            "Deomali" , 
+            "Thuria konda",
+            "Gali gabdar", 
+            "Sabrasrikhetra",
+            "Tribal museum",
+            "DMJ Hanuman", 
+            "Kantabansarani"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "5 Nights & 6 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwar", 
+            "Deomali", 
+            "Duduma", 
+            "Talamiting+Punjisil",
+            "Punjisil", 
+            "Kalyamali", 
+            "Turia konda",
+            "Galigabdar"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "5 Nights & 6 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwar",
+            "Thuria  konda",
+            "Gali gabdar", 
+            "Chingdi duduma", 
+            "Rani duduma",
+            "balda",
+            "Jalmunda",
+            "Sabrasrikhetra",
+            "Tribal museum",
+            "DMJ Hanuman", 
+            "Kantabansarani"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "packagename": "5 Nights & 6 Days",
+        "name":"",
+        "locations":[
+            "Gupteshwar", 
+            "Bagra", 
+            "magardora", 
+            "Putsil",
+            "deomali", 
+            "Kalyamali", 
+            "Sabrasrikhetra",
+            "Tribal museum",
+            "DMJ Hanuman", 
+            "Kantabansarani"
+        ],
+        "img":[
+            "",
+            "",
+            ""
+
+        ],
+        "amenitiesincluded":[
+            "Pickup and Drop",
+            "Comfortable Stay",
+            "Personal Cab",
+            "Breakfast",
+            "Basic First Aids"
+        ],
+        "overview":"",
+        "description":[
+            "",
+            "",
+            ""
+        ]
+    }
+]

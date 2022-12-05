@@ -1,0 +1,191 @@
+[
+	{
+		"img": "../assets/images/testimonialImage/jackhammer.jpg",
+		"alt": "jack",
+		"msg": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?",
+		"name": "Jack Hammer",
+		"rating": 5
+	},
+	{
+		"img": "../assets/images/testimonialImage/jackhammer.jpg",
+		"alt": "jack",
+		"msg": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?",
+		"name": "Jack Hammer",
+		"rating": 5
+	},
+	{
+		"img": "../assets/images/testimonialImage/jackhammer.jpg",
+		"alt": "jack",
+		"msg": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?",
+		"name": "Jack Hammer",
+		"rating": 5
+	},
+	{
+		"img": "../assets/images/testimonialImage/jackhammer.jpg",
+		"alt": "jack",
+		"msg": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?",
+		"name": "Jack Hammer",
+		"rating": 5
+	},
+	{
+		"img": "../assets/images/testimonialImage/jackhammer.jpg",
+		"alt": "jack",
+		"msg": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum ut ab, inventore amet reprehenderit suscipit maxime unde aut voluptate minima id temporibus ipsa cupiditate aperiam corrupti tempora! Doloribus, labore incidunt?",
+		"name": "Jack Hammer",
+		"rating": 5
+	},
+	{
+		"img": "../assets/images/testimonialImage/logo.PNG",
+		"alt": "bidyut",
+		"msg": "Testing",
+		"name": "bidyut",
+		"rating": 5
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxc ",
+		"name": "Test 1",
+		"rating": 3
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxc ",
+		"name": "Test 1",
+		"rating": 3
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "Test 1",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbj",
+		"name": "Test 1",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "bbbhjbj",
+		"msg": "ghvghvjhvjbhvhjnvbvhbjvbbhjvhjbhjhjgjbjkbkbjkbjknbjkbjkbjkbkjbhjbvhjvhvhjvjhbhjbhj",
+		"name": "bbbhjbj",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/logo.PNG",
+		"alt": "rgdfgfdgfd",
+		"msg": "dgfdsgdhdghgdxbdfbfgbgxbxfbdfbxdbxdgbdbdxfdfgdfgdfbdbdfbfdbfd",
+		"name": "rgdfgfdgfd",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/logo.PNG",
+		"alt": "rgdfgfdgfd",
+		"msg": "dgfdsgdhdghgdxbdfbfgbgxbxfbdfbxdbxdgbdbdxfdfgdfgdfbdbdfbfdbfd",
+		"name": "rgdfgfdgfd",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/logo.PNG",
+		"alt": "rgdfgfdgfd",
+		"msg": "dgfdsgdhdghgdxbdfbfgbgxbxfbdfbxdbxdgbdbdxfdfgdfgdfbdbdfbfdbfd",
+		"name": "rgdfgfdgfd",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/logo.PNG",
+		"alt": "rgdfgfdgfd",
+		"msg": "dgfdsgdhdghgdxbdfbfgbgxbxfbdfbxdbxdgbdbdxfdfgdfgdfbdbdfbfdbfd",
+		"name": "rgdfgfdgfd",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/logo.PNG",
+		"alt": "rgdfgfdgfd",
+		"msg": "dgfdsgdhdghgdxbdfbfgbgxbxfbdfbxdbxdgbdbdxfdfgdfgdfbdbdfbfdbfd",
+		"name": "rgdfgfdgfd",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "jkhghj",
+		"msg": "jhvhjbjbhbkhbjkbjhvghvmvcfmcghvghvhfvujhfvhyujgfhjgjhgj",
+		"name": "jkhghj",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/map.png",
+		"alt": "bdu",
+		"msg": "ygdyudhbchjcbdhcbsdhcbdscbscbcnbdscnzcnzx cnzbcmzcbncbc mnc zbnc zmxchjgfjhgjgjgjgjgjgjgj hjgjjhjjbjhjbjhbjbbkbkkkbkbbkbkbk",
+		"name": "bdu",
+		"rating": 4
+	},
+	{
+		"img": "../assets/images/testimonialImage/PTR_logo.png",
+		"alt": "nanda",
+		"msg": "yfcgjngjhcghgjkyfcvhbjnbhcgfhnvbhghgmbvcghjgmnvcgxfhjbmvcxgfhjgbnvcgfhjgbvcghvncgfhvnghv gvncgvjvgcn",
+		"name": "nanda",
+		"rating": 4
+	}
+]

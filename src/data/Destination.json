@@ -1,0 +1,202 @@
+[
+    {
+        "destinationName":"Gupteshwar",
+        "img":[
+            "../assets/images/image1.jpg",
+            "../assets/images/image2.jpg",
+            "../assets/images/image3.jpg"
+        ],
+        "type":"waterfalls",
+        "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+    },
+    {
+        "destinationName":"Putsil",
+        "img":[
+            "../assets/images/image1.jpg",
+            "../assets/images/image2.jpg",
+            "../assets/images/image3.jpg"
+        ],
+        "type":"waterfalls",
+        "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+    },
+    {
+        "destinationName":"Deomali",
+        "img":[
+            "../assets/images/image1.jpg",
+            "../assets/images/image2.jpg",
+            "../assets/images/image3.jpg"
+        ],
+        "type":"waterfalls",
+        "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+    },
+    {
+    "destinationName":"Deomali",
+        "img":[
+            "../assets/images/image1.jpg",
+            "../assets/images/image2.jpg",
+            "../assets/images/image3.jpg"
+        ],
+        "type":"waterfalls",
+        "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+    },
+    {
+        "destinationName":"Deomali",
+            "img":[
+                "../assets/images/image1.jpg",
+                "../assets/images/image2.jpg",
+                "../assets/images/image3.jpg"
+            ],
+            "type":"waterfalls",
+            "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+        },
+        {
+            "destinationName":"Gupteshwar",
+            "img":[
+                "../assets/images/image1.jpg",
+                "../assets/images/image2.jpg",
+                "../assets/images/image3.jpg"
+            ],
+            "type":"caves",
+            "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+        },
+        {
+            "destinationName":"Duduma",
+            "img":[
+                "../assets/images/image1.jpg",
+                "../assets/images/image2.jpg",
+                "../assets/images/image3.jpg"
+            ],
+            "type":"caves",
+            "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+        },
+        {
+            "destinationName":"Deomali",
+            "img":[
+                "../assets/images/image1.jpg",
+                "../assets/images/image2.jpg",
+                "../assets/images/image3.jpg"
+            ],
+            "type":"caves",
+            "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+        },
+        {
+        "destinationName":"Deomali",
+            "img":[
+                "../assets/images/image1.jpg",
+                "../assets/images/image2.jpg",
+                "../assets/images/image3.jpg"
+            ],
+            "type":"caves",
+            "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+        },
+        {
+            "destinationName":"Deomali",
+                "img":[
+                    "../assets/images/image1.jpg",
+                    "../assets/images/image2.jpg",
+                    "../assets/images/image3.jpg"
+                ],
+                "type":"caves",
+                "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+            },
+            {
+                "destinationName":"Gupteshwar",
+                "img":[
+                    "../assets/images/image1.jpg",
+                    "../assets/images/image2.jpg",
+                    "../assets/images/image3.jpg"
+                ],
+                "type":"Scenic Spot",
+                "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+            },
+            {
+                "destinationName":"Duduma",
+                "img":[
+                    "../assets/images/image1.jpg",
+                    "../assets/images/image2.jpg",
+                    "../assets/images/image3.jpg"
+                ],
+                "type":"Scenic Spot",
+                "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+            },
+            {
+                "destinationName":"Deomali",
+                "img":[
+                    "../assets/images/image1.jpg",
+                    "../assets/images/image2.jpg",
+                    "../assets/images/image3.jpg"
+                ],
+                "type":"Scenic Spot",
+                "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+            },
+            {
+            "destinationName":"Deomali",
+                "img":[
+                    "../assets/images/image1.jpg",
+                    "../assets/images/image2.jpg",
+                    "../assets/images/image3.jpg"
+                ],
+                "type":"Scenic Spot",
+                "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+            },
+            {
+                "destinationName":"Deomali",
+                    "img":[
+                        "../assets/images/image1.jpg",
+                        "../assets/images/image2.jpg",
+                        "../assets/images/image3.jpg"
+                    ],
+                    "type":"Scenic Spot",
+                    "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+                },
+                {
+                    "destinationName":"Gupteshwar",
+                    "img":[
+                        "../assets/images/image1.jpg",
+                        "../assets/images/image2.jpg",
+                        "../assets/images/image3.jpg"
+                    ],
+                    "type":"Trekking",
+                    "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+                },
+                {
+                    "destinationName":"Duduma",
+                    "img":[
+                        "../assets/images/image1.jpg",
+                        "../assets/images/image2.jpg",
+                        "../assets/images/image3.jpg"
+                    ],
+                    "type":"Trekking",
+                    "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+                },
+                {
+                    "destinationName":"Deomali",
+                    "img":[
+                        "../assets/images/image1.jpg",
+                        "../assets/images/image2.jpg",
+                        "../assets/images/image3.jpg"
+                    ],
+                    "type":"Trekking",
+                    "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+                },
+                {
+                "destinationName":"Deomali",
+                    "img":[
+                        "../assets/images/image1.jpg",
+                        "../assets/images/image2.jpg",
+                        "../assets/images/image3.jpg"
+                    ],
+                    "type":"Trekking",
+                    "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+                },
+                {
+                    "destinationName":"Deomali",
+                        "img":[
+                            "../assets/images/image1.jpg",
+                            "../assets/images/image2.jpg",
+                            "../assets/images/image3.jpg"
+                        ],
+                        "type":"Trekking",
+                        "overview":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae quas hic modi consequatur nostrum dolorem! Odio quas illo voluptas?"
+                    }
+]

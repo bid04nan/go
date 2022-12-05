@@ -1,0 +1,21 @@
+export const gallaryImages =[
+        {src:"../assets/images/gallary/pexels-alex-azabache-3214958.jpg"},
+        {src:"../assets/images/gallary/pexels-alex-azabache-3757144.jpg"},
+        {src:"../assets/images/gallary/pexels-amine-m'siouri-2245436.jpg"},
+        {src:"../assets/images/gallary/pexels-asad-photo-maldives-3155666.jpg"},
+        {src:"../assets/images/gallary/pexels-enric-cruz-lópez-6039184.jpg"},
+        {src:"../assets/images/gallary/pexels-gabriela-palai-507410.jpg"},
+        {src:"../assets/images/gallary/pexels-matt-hardy-5059013.jpg"},
+        {src:"../assets/images/gallary/pexels-michael-block-3225528.jpg"},
+        {src:"../assets/images/gallary/pexels-pierre-blaché-2901209.jpg"},
+        {src:"../assets/images/gallary/pexels-pierre-blaché-2901215.jpg"},
+        {src:"../assets/images/gallary/pexels-riccardo-bertolo-4245826.jpg"},
+        {src:"../assets/images/gallary/pexels-roman-odintsov-4871012.jpg"},
+        {src:"../assets/images/gallary/pexels-spencer-davis-4353638.jpg"},
+        {src:"../assets/images/gallary/pexels-spencer-davis-4356144.jpg"},
+        {src:"../assets/images/gallary/pexels-spencer-davis-4388167.jpg"},
+        {src:"../assets/images/gallary/pexels-spencer-davis-4388168.jpg"},
+        {src:"../assets/images/gallary/pexels-taryn-elliott-3889742.jpg"},
+        {src:"../assets/images/gallary/pexels-vincent-ma-janssen-1310788.jpg"},
+
+]
